@@ -1,0 +1,84 @@
+Dear Candidate,
+
+Thank you for your interest in the Project-Based Freelancing Frontend Developer role at Preproute.
+
+We are pleased to inform you that you have been shortlisted for the next round of the selection process. This round is a task-based evaluation designed to assess your frontend development skills, attention to detail, API integration ability and overall implementation quality.
+
+Candidates whose submissions meet the given guidelines and expectations will be shortlisted for the interview round.
+
+As part of this task, you are required to build a test management application with a focus on CRUD operations and API integration.
+
+Task Overview:
+You will be building a 5-page application that allows users to:
+Log in to the system
+
+View a dashboard of all tests
+
+Create and edit test details, including name, subject, topics and marking scheme
+
+Add MCQ-format questions to tests with options
+
+Preview and publish the test
+
+Flow and UI Design: https://www.figma.com/design/Xe45bF7fnHroM1g1gDGXFR/Preproute-Assignment?node-id=0-1&t=YcqE8kZxcuERQ4IZ-1
+
+What’s Provided:
+
+Complete API documentation with all required endpoints
+
+Backend server APIs running at: https://admin-moderator-backend-staging.up.railway.app/api
+
+Test login credentials
+
+Detailed task document with requirements and evaluation criteria
+
+Technical Stack:
+
+React + TypeScript
+
+State management solution of your choice
+
+Axios/Fetch for API integration
+
+Form validation library
+
+Responsive design as per the Figma guidelines
+
+What We’re Evaluating:
+
+Code quality and structure – 30%
+
+Functionality and API integration – 40%
+
+UI/UX implementation as per Figma shared above – 20%
+
+Best practices and documentation – 10%
+
+Test Credentials:
+Username: vedant-admin
+Password: vedant123
+
+Deliverables:
+
+GitHub repository
+
+Deployed working web application
+
+Task walkthrough video link
+
+Brief explanation of your technical decisions
+
+Timeline:
+Please complete the task by Sunday, 12 July 2026, 11:59 PM and submit all required deliverables through the Google Form link provided below:
+
+Google Form Link: https://forms.gle/ohf9qho7W8LALjhq9
+Please note that submissions will be considered only through the Google Form. Submissions made through email or any other medium will not be accepted or evaluated. Any emails requesting deadline extensions or late submission acceptance will not be entertained.
+
+Please also note that the attached document contains the complete API documentation. Kindly review it carefully before starting the task.
+
+Before submitting your task, please double-check all deliverables thoroughly. Ensure that your implementation matches the UI design, all required screens are complete, and every functionality shown or mentioned in the UI works properly. Since this is an evaluation round, we will not be able to provide a second chance for incomplete, incorrect, or missed submissions.
+
+If you have any genuine questions regarding the requirements or need clarification on any aspect of the task, you may reach out to us by replying to this mail before submission.
+
+We look forward to reviewing your work!
+

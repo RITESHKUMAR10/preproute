@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: preproute-test-management
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: /api
+    routes:
+      - type: rewrite
+        source: /api/*
+        destination: https://admin-moderator-backend-staging.up.railway.app/api/:splat
+      - type: rewrite
+        source: /*
+        destination: /index.html
